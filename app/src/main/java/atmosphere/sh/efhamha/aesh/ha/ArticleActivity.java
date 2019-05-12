@@ -11,6 +11,5 @@ public class ArticleActivity extends AppCompatActivity
     {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_article);
-
     }
 }
